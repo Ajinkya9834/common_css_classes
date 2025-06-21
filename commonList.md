@@ -28,21 +28,6 @@ done: text color
 <!-- pending -->
 
 - animation: for hero section
-- specific height and width for images
-    width:100%
-    height: 300px; fix height
-    object-fit: cover;
-    dispaly: block; to remove spacing
-
-    .img-holder img{
-        max-width: 100%;
-        max-height: 100%;
-        aspect-ration: 5/3; //adjust accordingly
-        object-fit: cover; //if necessary
-        object-position: center; // if necessary
-    }
-
-
 - font-family: sans-serif; 
 
 
