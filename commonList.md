@@ -1,1 +1,1 @@
-This is a common css used.
+This is a common css. A mini version of bootstrap.
